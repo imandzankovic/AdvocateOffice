@@ -1,0 +1,3 @@
+com\example\repository\UserRepository.class
+com\example\models\User.class
+com\example\demo\UserModuleApplication.class
