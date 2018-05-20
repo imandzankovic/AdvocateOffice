@@ -1,0 +1,9 @@
+com\example\repository\CategoryRepository.class
+com\example\repository\ClientRepository.class
+com\example\models\CaseInfo.class
+com\example\models\Category.class
+com\example\controllers\CaseController.class
+com\example\service\CaseService.class
+com\example\models\Client.class
+com\example\demo\CaseModuleApplication.class
+com\example\repository\CaseRepository.class
