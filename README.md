@@ -10,6 +10,11 @@ Advocate Office is application implemented using microservices in Java.
  - Eureka for synchronous communication between modules
  - RabbitMQ for asynchronous communication between modules 
 
+## Security
+ 
+ Security is implemented with Spring Security.
+ Each module uses application settings not locally, but from repository that can be found on:  https://github.com/imandzankovic/CentralConfiguration
+ 
 
 ## Usage
 
